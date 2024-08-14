@@ -82,7 +82,7 @@ This open call is listed in our [Contributor Project](https://github.com/orgs/Se
 - Submission: Contributors can submit their content via a Pull Request after completing the assignments.
 - Review: Maintainers will merge the submission and record the contributions.
 
-**Contributors receive a $250 cash bonus as a token of appreciation.**
+**Contributors will receive a $250 cash bonus as a token of appreciation for each new complete new example.**
 
 For any questions or further information, feel free to reach out via the GitHub issues page or contact edgeai@seeed.cc 
 
